@@ -45,7 +45,6 @@
 
 // export default Hero;
 
-import React from 'react';
 import { MdOutlineDriveFolderUpload } from "react-icons/md";
 
 function Hero() {
@@ -80,7 +79,7 @@ function Hero() {
           <div className="w-full h-[40rem] rounded-2xl mt-5 overflow-hidden">
             <iframe
               className="w-full h-full"
-              src="https://www.youtube.com/embed/UNo0TG9LwwI?si=G0qT70adoBQJ8AUf"
+              src="https://youtu.be/C7OQHIpDlvA?feature=shared"
               title="YouTube video player"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
